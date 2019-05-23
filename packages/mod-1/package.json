@@ -1,9 +1,9 @@
 {
   "name": "lerna-publish-fixed-mod-1",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "dependencies": {
-    "lerna-publish-fixed-mod-2": "0.0.0"
+    "lerna-publish-fixed-mod-2": "^0.0.1"
   },
   "license": "MIT"
 }
